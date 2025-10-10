@@ -1,4 +1,4 @@
-export const BASE_URL = 'http://localhost:4000'
+export const BASE_URL = 'https://resume-flow-backend.vercel.app'
 
 // ROUTES USED FOR FRONTEND
 export const API_PATHS = {
