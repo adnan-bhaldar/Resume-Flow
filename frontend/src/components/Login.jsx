@@ -1,5 +1,5 @@
 import React, { useContext, useState } from 'react'
-import { UserContext } from '../context/userContext';
+import { UserContext } from '../context/UserContext';
 import { useNavigate } from 'react-router-dom';
 import { API_PATHS } from '../utils/apiPaths';
 
