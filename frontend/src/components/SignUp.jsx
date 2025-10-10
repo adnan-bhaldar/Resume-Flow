@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react'
 import { authStyles as styles } from '../assets/dummystyle'
-import { UserContext } from '../context/serContext';
+import { UserContext } from '../context/UserContext';
 import { useNavigate } from 'react-router-dom';
 import { validateEmail } from '../utils/helper';
 import axiosInstance from '../utils/axiosInstance';
