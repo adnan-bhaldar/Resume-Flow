@@ -1,7 +1,7 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
 import LandingPage from './pages/LandingPage'
-import UserProvider from './context/userContext'
+import UserProvider from './context/UserContext.jsx'
 import Dashboard from './pages/Dashboard'
 import EditResume from './components/EditResume'
 import { Toaster } from 'react-hot-toast'
