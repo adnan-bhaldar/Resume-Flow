@@ -83,8 +83,11 @@ This project is open-source and available under the **MIT License**.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author & Contributor
 
 **Adnan Bhaldar**
 
-- GitHub: https://github.com/adnan-bhaldar  
+- GitHub: https://github.com/adnan-bhaldar
+
+**Aniket Malavekar**
+- Github: https://github.com/AniketMalavekar
